@@ -16,7 +16,7 @@ VisionAR is a powerful **React Native** application that brings Augmented Realit
 
 ## Demo ✨
 
-![](PreView/ARDemo.gif)
+![](Preview/ARDemo.gif)
 
 ## Platform Support 📱
 
